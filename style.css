@@ -1,0 +1,192 @@
+/*--main-content-starts-here--*/
+body {
+	font-family: Verdana;
+
+
+	width: 100%;
+	text-transform: uppercase;
+	background: #fff;
+	background-attachment: fixed;
+	background: url(https://wallpapershome.com/images/pages/pic_h/20311.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+
+	text-align: center;
+}
+
+
+
+.top-buttons-agileinfo {
+	/* float: right; */
+	text-align: right;
+	padding: 2em 3em;
+}
+
+.main-agileits {
+	width: 42%;
+	margin: 0 auto;
+}
+
+h2.sub-agileits-w3layouts {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 500;
+	text-align: center;
+	margin-bottom: 2em;
+	letter-spacing: 2px;
+}
+
+.form-w3-agile {
+	background: rgba(41, 39, 39, 0.46);
+	-webkit-box-shadow: 0px 35px 44px -22px rgba(0, 0, 0, 0.72);
+	-moz-box-shadow: 0px 35px 44px -22px rgba(0, 0, 0, 0.72);
+	box-shadow: 0px 35px 44px -22px #1f181b;
+	padding: 60px 40px;
+}
+
+.top-buttons-agileinfo a {
+	background: rgba(255, 255, 255, 0.15);
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	letter-spacing: 1px;
+	display: inline-block;
+	padding: 9px 26px;
+	border: 1px solid #756d6d;
+	margin: 15px 15px 0px 0px;
+	-webkit-transition: 0.3s all;
+	-moz-transition: 0.3s all;
+	-o-transition: 0.3s all;
+	-ms-transition: 0.3s all;
+	transition: 0.3s all;
+	border: 1px solid #fff;
+}
+
+.top-buttons-agileinfo a.active {
+	border-color: #df5799;
+	background: #df5799;
+}
+
+h1 {
+	text-align: center;
+	font-size: 33px;
+	font-weight: bold;
+	margin: 10px 0 35px 0;
+	color: #ffffff;
+	letter-spacing: 2px;
+	word-spacing: 4px;
+}
+
+
+form {
+	margin: 0 auto;
+	width: 100%;
+}
+
+.form-sub-w3 {
+	position: relative;
+}
+
+.form-w3-agile input[type="text"],
+.form-w3-agile input[type="password"],
+.form-w3-agile input[type="email"] {
+	outline: none;
+	font-size: 15px;
+	color: #ffffff;
+	text-align: left;
+	padding: 12px 14px;
+	width: 95.5%;
+	border: none;
+	border-bottom: 1px solid #889ba0;
+	-webkit-appearance: none;
+	margin-bottom: 30px;
+	background: transparent;
+
+	letter-spacing: 1px;
+}
+
+a.forgot-w3layouts {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	font-size: 14px;
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	color: #fff;
+}
+
+.submit-w3l input[type="submit"] {
+	background: #fff;
+	color: #000;
+	outline: none;
+	display: block;
+	margin: 0 auto;
+	border: none;
+	cursor: pointer;
+	padding: 13px 38px;
+	font-size: 14px;
+	width: 100%;
+	margin-top: 1em;
+	font-weight: bold;
+	text-transform: uppercase;
+
+	transition: 0.3s all;
+	-webkit-transition: 0.3s all;
+	-moz-transition: 0.3s all;
+	-o-transition: 0.3s all;
+	-ms-transition: 0.3s all;
+}
+
+.submit-w3l input[type="submit"]:hover {
+	background: #df5799;
+	color: #ffffff;
+	transition: 0.3s all;
+	-webkit-transition: 0.3s all;
+	-moz-transition: 0.3s all;
+	-o-transition: 0.3s all;
+	-ms-transition: 0.3s all;
+}
+
+
+/*--main-content-ends-here--*/
+
+
+.form-sub-w3ls {
+	position: relative;
+}
+
+
+
+
+/*--copy-right-starts-here--*/
+.copyright p {
+	margin: 0 auto;
+	text-align: center;
+	margin: 64px 0px 0;
+	font-size: 13px;
+	color: #fff;
+	letter-spacing: 1.2px;
+	text-transform: none;
+}
+
+.copyright a {
+	color: #f53994;
+	font-weight: bold;
+	transition: 0.3s all;
+	-webkit-transition: 0.3s all;
+	-moz-transition: 0.3s all;
+	-o-transition: 0.3s all;
+	-ms-transition: 0.3s all;
+}
+
+.copyright a:hover {
+	color: #fff;
+	transition: 0.3s all;
+	-webkit-transition: 0.3s all;
+	-moz-transition: 0.3s all;
+	-o-transition: 0.3s all;
+	-ms-transition: 0.3s all;
+}
